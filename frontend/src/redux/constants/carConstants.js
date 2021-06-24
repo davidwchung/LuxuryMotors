@@ -1,0 +1,7 @@
+export const GET_CARS_REQUEST = "GET_CARS_REQUEST";
+export const GET_CARS_SUCCESS = "GET_CARS_SUCCESS";
+export const GET_CARS_FAIL = "GET_CARS_FAIL";
+
+export const GET_CAR_REQUEST = "GET_CAR_REQUEST";
+export const GET_CAR_SUCCESS = "GET_CAR_SUCCESS";
+export const GET_CAR_FAIL = "GET_CAR_FAIL";
