@@ -1,6 +1,6 @@
-This site can be found at: https://luxurymotors.netlify.app/ or https://luxurymotors-25248.web.app/
+This site can be found at: https://luxurymotors.netlify.app/
 
-The front end is deployed using Netlify and Firebase, the back end is deployed using Heroku.
+The front end is deployed using Netlify, and the back end is deployed using Heroku.
 
 # Luxury Motors
 Full Stack MERN eCommerce Website utilizing Redux for application state and MaterialUI for design
